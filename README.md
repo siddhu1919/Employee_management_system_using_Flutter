@@ -1,5 +1,6 @@
 # Employee Management app using Flutter/Dart
 
+## This app was intentionally made for Nishkaam Innovations LLP.
 
 ## Overview
 
